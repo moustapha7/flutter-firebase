@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798386101009",
+    "project_id": "flutter-firebase-e01d0",
+    "storage_bucket": "flutter-firebase-e01d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798386101009:android:26f7ba19f421b297f14ab0",
+        "android_client_info": {
+          "package_name": "com.tailleur.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798386101009-dnb0pda22apsmgmg4v1qsi3r1p44bgsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRKelGBm5Iv5j8aloXMoPzFlsEudw8EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798386101009-dnb0pda22apsmgmg4v1qsi3r1p44bgsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
